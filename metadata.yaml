@@ -6,3 +6,6 @@ description: |
 tags:
   - misc
   - tutorial
+requires:
+  database:
+    interface: mysql
