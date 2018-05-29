@@ -6,3 +6,4 @@ options:
   apt:
     packages:
      - hello 
+repo: git@github.com:erik78se/layer-example.git

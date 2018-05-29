@@ -9,3 +9,6 @@ tags:
 requires:
   database:
     interface: mysql
+series:
+  - xenial
+  - bionic
